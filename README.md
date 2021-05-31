@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://unsplash.com/photos/2rCggxMjd_8">
-    <img src="https://github.com/RobertoSaback/Video-Player/blob/main/tvs.jpg" alt="Logo" width="120" height="120">
+    <img src="https://github.com/RobertoSaback/Video-Player/blob/main/tvs.jpg" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">Video Component made in JS</h3>
