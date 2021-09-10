@@ -51,7 +51,7 @@
 <img src="https://github.com/RobertoSaback/Video-Player/blob/main/VideoPlayer.gif" alt="Screenshot" width="1200" height="600">
 
 
-There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  start here.
+There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  star here.
 
 Here's why:<br>
 ⚫  World is getting more e-learning friendly besides use a customized video player with  your own features and brand make your business webpage more singular.<br>
