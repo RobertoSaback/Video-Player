@@ -64,7 +64,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With<br>
 
-⚫  Vanila Java Script <br>
+⚫  Vanila Javascript <br>
 
 ..... and  love :heart: 
 
